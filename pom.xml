@@ -294,9 +294,9 @@
                         </configuration>
                     </execution>
                 </executions>
-                <configuration>
-                    <release>8</release>
-                </configuration>
+<!--                <configuration>-->
+<!--                    <release>8</release>-->
+<!--                </configuration>-->
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
